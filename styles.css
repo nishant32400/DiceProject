@@ -1,0 +1,40 @@
+h1{
+  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Macondo', cursive;
+  text-align: center;
+  font-size: 100px;
+}
+
+.p1{
+  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Macondo', cursive;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 27%;
+}
+
+.p2{
+  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Macondo', cursive;
+  text-align: center;
+  font-size: 50px;
+  margin-left: 30%;
+}
+
+#p1{
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 39%;
+  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Macondo', cursive;
+  font-size: 60px;
+}
+
+
+
+#picture{
+  margin-left: 28.1%;
+}
+#picture1{
+  margin-left: 34%;
+}
